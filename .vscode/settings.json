@@ -1,0 +1,5 @@
+{
+  "emmet.useInlineCompletions": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on"
+}
